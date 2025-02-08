@@ -16,3 +16,19 @@ Ensure that the extracted data files are placed in the same directory as the Jup
 
 ## Note: 
 The project code assumes that the required data files are present in the same directory as the Jupyter Notebook. Please follow the instructions above to acquire and prepare the data accordingly.
+
+## Training Results
+
+The following plots illustrate the training and validation performance of the neural network:
+
+### Model Accuracy
+
+![Model Accuracy Plot](images/accuracy_plot.jpg)
+
+This plot shows the training and validation accuracy over the epochs.  The blue line represents the training accuracy, and the orange line represents the validation accuracy.
+
+### Model Loss
+
+![Model Loss Plot](images/loss_plot.jpg)
+
+This plot shows the training and validation loss over the epochs. The blue line represents the training loss, and the orange line represents the validation loss.
